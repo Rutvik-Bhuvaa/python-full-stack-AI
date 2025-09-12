@@ -1,0 +1,5 @@
+=> OOPs is the paradigm of programming basically it is the way of writing the code
+
+=> By default : If you create any object from any class and then add some properties for that object then it is totally independent from the class that means class does not have that property which object created 
+
+=> Every class has a constructor and if you don't create the constructor then it is created by default during the execution

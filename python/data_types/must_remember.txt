@@ -1,0 +1,46 @@
+Data types:
+
+1. Object and Mutability
+- Everything is object in python
+- It contains: 
+    -- unique identity
+    -- unique type
+    -- some value and it could be empty also
+
+- Objects can be mutable and immutable based on identity
+    -- Mutable is something that is changeable
+    -- Immutable is something that is not changeable
+    So, mutability and immutability is depend on the reference inside the memory
+
+2. Numbers
+- Types of Numbers
+    1. Intergers
+    2. Boolean
+    3. Real numbers => floating point numbers
+    4. Complex numbers
+
+3. String
+- It has three parts
+    -- core part
+    -- indexing
+    -- slicing
+
+4. Tuples
+- Immutable
+- represented in () parenthesis
+
+# MUTABLE
+5. List
+- same as array in other language
+
+6. Set
+- We can perform operations like union, intersection, difference,etc on it
+- {}
+- there is frozenset also there in python which is same as Set
+
+7. Dictionary
+- It provides name based indexing
+- dict()
+- {}
+- union, intersection, difference,etc apply to dictionary like Set
+

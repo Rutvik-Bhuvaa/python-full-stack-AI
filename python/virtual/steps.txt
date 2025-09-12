@@ -1,0 +1,14 @@
+There are two ways to create virtual environment in python
+1. using venv (Traditional way)
+
+Steps:
+    1. Run this command: python -m venv .venv 
+        - this command create .venv folder
+    2. For windows: 
+        - run this command: .venv\Scripts\activate
+    3. If you want to delete this virtual environment 
+        - run this command: deactivate
+
+2. using uv (Modern and most preferred way)
+
+Steps: 
